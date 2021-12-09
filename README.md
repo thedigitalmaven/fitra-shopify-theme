@@ -1,2 +1,2 @@
 # fitra-shopify-theme
-# fitra-theme
+Fitra, a store that sells just one single product, a smart watch.
